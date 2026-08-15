@@ -29,7 +29,7 @@ https://syncsphere-hiv6.onrender.com/assignment/country-code
 
 ## Published Framer Site
 
-PASTE YOUR PUBLISHED FRAMER LINK HERE
+https://skillpathbyniroop.framer.website/#footer
 
 ## Short Note
 
