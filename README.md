@@ -44,5 +44,4 @@ With two more days, I would further refine the visual system, improve the mobile
 I used ChatGPT during development for React/API implementation guidance, debugging, and implementation ideas. I reviewed and tested the final implementation in Framer and adapted it to the assignment requirements.
 
 ## Shared AI Conversation
-
-PASTE YOUR SHARED CHATGPT LINK HERE
+https://chatgpt.com/share/6a7ff78e-e5b0-83ee-a78a-6a835419e5b5
